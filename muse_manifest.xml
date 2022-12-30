@@ -1,0 +1,131 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="innatetech.co.zw" resolutions="1x" timestamp="1672398538375">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="136062749" ref="about-us:contact:our-facilities:index"/>
+    <file name="about-us.css" crc="4159209188" ref="about-us"/>
+    <file name="contact.css" crc="9914349" ref="contact"/>
+    <file name="our-facilities.css" crc="3963046278" ref="our-facilities"/>
+    <file name="index.css" crc="251833715" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:our-facilities:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:about-us:our-facilities:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:our-facilities:contact"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:about-us:our-facilities:contact"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about-us:our-facilities:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about-us:our-facilities:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="index:about-us:our-facilities:contact"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:about-us:our-facilities:contact"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:about-us:our-facilities:contact"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:about-us:our-facilities:contact"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u4760.php" crc="490105378" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:our-facilities:contact"/>
+    <file name="require.js" crc="7928878" ref="index:about-us:our-facilities:contact"/>
+    <file name="form-u7893.php" crc="3926117300" ref="about-us"/>
+    <file name="form-u12872.php" crc="3902899175" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:about-us:our-facilities:contact"/>
+    <file name="innate-logo.svg" crc="500610412" seo="true" ref="index:about-us:our-facilities:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="our-facilities" alt=""/>
+      <caption webpage="our-facilities" alt=""/>
+    </file>
+    <file name="innate logo_poster_.png" crc="3768372901" ref="index"/>
+    <file name="imgp5450raw.jpg" crc="408313099" seo="true" ref="index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="imgp5536raw.jpg" crc="254141566" seo="true" ref="index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="imgp5541raw.jpg" crc="4159316953" seo="true" ref="index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="imgp5576raw.jpg" crc="3791443467" seo="true" ref="index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:about-us:our-facilities:contact"/>
+    <file name="solace gallery-04-crop-u517.png" crc="261050288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icone-d-ordinateur-noir.png" crc="102357978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2282299.png" crc="480861734" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="109613.png" crc="111094862" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imgp5576raw2.jpg" crc="3791443467" seo="true" ref="about-us:our-facilities">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="our-facilities" alt=""/>
+    </file>
+    <file name="solace gallery-04-crop-u6681.png" crc="371226706" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="solace gallery-05-crop-u6679.png" crc="4074479916" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="our team-01.png" crc="4259943309" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="our team-02.png" crc="41702872" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="our team-03.png" crc="339496596" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="untitled-2-01.png" crc="152885544" seo="true" ref="about-us:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="untitled-2-02.png" crc="4130374494" seo="true" ref="about-us:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="untitled-2-03.png" crc="4093810744" seo="true" ref="about-us:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="britishcouncil.png" crc="3758599645" seo="true" ref="our-facilities">
+      <caption webpage="our-facilities" alt=""/>
+    </file>
+    <file name="imgp5453raw-crop-u12578.jpg" crc="20187262" seo="true" ref="our-facilities">
+      <caption webpage="our-facilities" alt=""/>
+    </file>
+    <file name="imgp5606raw.jpg" crc="191843950" seo="true" ref="our-facilities">
+      <caption webpage="our-facilities" alt=""/>
+    </file>
+    <file name="imgp5475raw.jpg" crc="514662057" seo="true" ref="our-facilities">
+      <caption webpage="our-facilities" alt=""/>
+    </file>
+    <file name="imgp5538raw.jpg" crc="4027333503" seo="true" ref="our-facilities">
+      <caption webpage="our-facilities" alt=""/>
+    </file>
+    <file name="imgp5541raw2.jpg" crc="4110146769" seo="true" ref="our-facilities">
+      <caption webpage="our-facilities" alt=""/>
+    </file>
+    <file name="solace gallery-04-crop-u13650.png" crc="261050288" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="258510743" seo="true" mt="1672397629731" redirect="true"/>
+  <file name="about-us.html" crc="3962542358" seo="true" mt="1672397629731" redirect="true"/>
+  <file name="our-facilities.html" crc="3776498935" seo="true" mt="1672397629731" redirect="true"/>
+  <file name="contact.html" crc="311926971" seo="true" mt="1672397629731" redirect="true"/>
+</manifest>
